@@ -771,6 +771,7 @@ button {
   align-items: center;
   fill: transparent;
   margin-right: 8px;
+  border-radius: 2px;
 }
 
 .checkbox-privacy:checked + .user-label > .user-span {
